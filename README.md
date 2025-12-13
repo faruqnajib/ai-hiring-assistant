@@ -33,7 +33,7 @@ Estimasi penghematan waktu bisa mencapai **70-80%** pada tahap seleksi administr
 | Membaca ratusan CV & email secara manual | AI melakukan screening kata kunci & kualifikasi dalam hitungan detik. |
 | Mengirim email konfirmasi satu per satu | Email balasan terkirim otomatis begitu lamaran diterima. |
 | Input data kandidat ke spreadsheet manual | Data otomatis tersimpan di database/Google Sheets via n8n. |
-| Memberi notifikasi manual ke manajer perekrutan | Notifikasi otomatis terkirim ke Slack/email manajer. |
+| Memberi notifikasi manual ke manajer perekrutan | Notifikasi otomatis terkirim ke Telegram manajer. |
 
 ### Penghematan Biaya (Budget)
 

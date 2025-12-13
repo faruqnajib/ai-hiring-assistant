@@ -4,7 +4,7 @@ Demo : https://faruqtokbae.vercel.app/
 
 Proyek ini adalah sebuah demonstrasi implementasi alur kerja (*workflow*) perekrutan yang cerdas dan otomatis. Menggunakan **n8n** sebagai *backend* automasi dan diintegrasikan dengan AI, proyek ini menunjukkan bagaimana proses dari lamaran hingga seleksi awal dapat diotomatisasi secara *end-to-end*.
 
-Landing page yang tersedia dalam repositori ini berfungsi sebagai antarmuka atau "wajah" dari sistem, yaitu sebuah situs web perusahaan fiktif yang sedang membuka lowongan pekerjaan.
+Landing page yang tersedia dalam repositori ini berfungsi sebagai antarmuka dari sistem, yaitu sebuah situs web perusahaan fiktif yang sedang membuka lowongan pekerjaan.
 
 ## 📜 Konsep Proyek
 
@@ -88,7 +88,7 @@ Tim perekrutan langsung mendapatkan notifikasi (Telegram) begitu ada lamaran bar
     *   **JavaScript**: Fungsionalitas formulir dan pengiriman data ke *webhook* n8n.
 *   **Backend & Automasi**:
     *   **n8n.io**: Platform inti yang menjalankan seluruh alur kerja automasi, mulai dari menerima data, memprosesnya, hingga melakukan tindakan (mengirim email, menyimpan data, dll.).
-    *   **AI**: Dapat diintegrasikan dalam alur kerja n8n melalui API ke layanan seperti OpenAI, Hugging Face, atau model lainnya.
+    *   **AI**: Dapat diintegrasikan dalam alur kerja n8n melalui API ke layanan seperti OpenAI, Gemini, Hugging Face, atau model lainnya.
 
 ## 🛠️ Cara Menggunakan dan Mengembangkan
 

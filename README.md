@@ -1,7 +1,8 @@
 # AI-Hiring-Assistant: Simulasi Perekrutan Otomatis dengan n8n
 
-Demo : https://faruqtokbae.vercel.app/
-Google Drive : https://drive.google.com/drive/folders/1Cg6CJJ7MQ1LfI-ufSjhSOCnoyAVT05aL?usp=sharing
+[WARNING !] Gunakan data dummy jika ingin mencoba  
+Demo : https://faruqtokbae.vercel.app/  
+Google Drive : https://drive.google.com/drive/folders/1Cg6CJJ7MQ1LfI-ufSjhSOCnoyAVT05aL?usp=sharing  
 Google Sheet : https://docs.google.com/spreadsheets/d/1zIlQH7cvFn91M0J76WVqnZ6z5jwucguAmLufQQB2pdA/edit?usp=sharing
 
 Proyek ini adalah sebuah demonstrasi implementasi alur kerja (*workflow*) perekrutan yang cerdas dan otomatis. Menggunakan **n8n** sebagai *backend* automasi dan diintegrasikan dengan AI, proyek ini menunjukkan bagaimana proses dari lamaran hingga seleksi awal dapat diotomatisasi secara *end-to-end*.

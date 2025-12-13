@@ -50,14 +50,15 @@ Berikut adalah gambaran visual dari setiap langkah utama dalam alur kerja automa
 ### 1. Alur Kerja Automasi di n8n
 Ini adalah otak dari operasi. Alur kerja di n8n ini menerima data dari formulir, memprosesnya, dan mendistribusikan informasi ke berbagai layanan secara otomatis.
 
-![Workflow n8n](./assets/n8n-workflow.png)
+![Workflow n8n](./assets/workflow.png)
 
 ---
 
 ### 2. Penyimpanan Data Otomatis di Google Sheets
-Setelah kandidat mengirimkan lamaran, data mereka secara instan dan otomatis diatur ke dalam Google Sheets, menciptakan database kandidat yang terstruktur tanpa perlu input manual.
+Setelah kandidat mengirimkan lamaran, data mereka secara instan dan otomatis masuk ke dalam Google Sheets dan Google Drive, menciptakan database kandidat yang terstruktur tanpa perlu input manual.
 
-![Data di Google Sheets](./assets/google-sheet-result.png)
+![Data di Google Sheets](./assets/log-sheet.png)
+![Data CV di Google Drive](./assets/raw-cv.png)
 
 ---
 
@@ -69,9 +70,9 @@ Pada saat yang sama, sistem mengirimkan email konfirmasi yang dipersonalisasi ke
 ---
 
 ### 4. Notifikasi Real-time untuk Tim HR
-Tim perekrutan langsung mendapatkan notifikasi (misalnya, melalui Slack) begitu ada lamaran baru yang masuk, memungkinkan mereka untuk bertindak cepat.
+Tim perekrutan langsung mendapatkan notifikasi (Telegram) begitu ada lamaran baru yang masuk, memungkinkan mereka untuk bertindak cepat.
 
-![Notifikasi Slack](./assets/slack-notification.png)
+![Notifikasi Slack](./assets/notif-tele.png)
 
 ## ✨ Fitur Demonstrasi
 

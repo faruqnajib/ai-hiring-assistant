@@ -1,6 +1,6 @@
 # AI-Hiring-Assistant: Simulasi Perekrutan Otomatis dengan n8n
 
-[WARNING !] Gunakan data dummy jika ingin mencoba  
+**[WARNING] !!! Gunakan data dummy jika ingin mencoba**  
 Demo : https://faruqtokbae.vercel.app/  
 Google Drive : https://drive.google.com/drive/folders/1Cg6CJJ7MQ1LfI-ufSjhSOCnoyAVT05aL?usp=sharing  
 Google Sheet : https://docs.google.com/spreadsheets/d/1zIlQH7cvFn91M0J76WVqnZ6z5jwucguAmLufQQB2pdA/edit?usp=sharing

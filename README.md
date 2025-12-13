@@ -1,5 +1,7 @@
 # AI-Hiring-Assistant: Simulasi Perekrutan Otomatis dengan n8n
 
+Demo : https://faruqtokbae.vercel.app/
+
 Proyek ini adalah sebuah demonstrasi implementasi alur kerja (*workflow*) perekrutan yang cerdas dan otomatis. Menggunakan **n8n** sebagai *backend* automasi dan diintegrasikan dengan AI, proyek ini menunjukkan bagaimana proses dari lamaran hingga seleksi awal dapat diotomatisasi secara *end-to-end*.
 
 Landing page yang tersedia dalam repositori ini berfungsi sebagai antarmuka atau "wajah" dari sistem, yaitu sebuah situs web perusahaan fiktif yang sedang membuka lowongan pekerjaan.
@@ -45,8 +47,6 @@ Penghematan waktu ini secara langsung berdampak pada pengurangan biaya operasion
 
 Berikut adalah gambaran visual dari setiap langkah utama dalam alur kerja automasi ini.
 
-*(Catatan: Ganti `nama-file-anda.png` dengan nama file screenshot yang sebenarnya di dalam folder `assets`)*
-
 ### 1. Alur Kerja Automasi di n8n
 Ini adalah otak dari operasi. Alur kerja di n8n ini menerima data dari formulir, memprosesnya, dan mendistribusikan informasi ke berbagai layanan secara otomatis.
 
@@ -72,7 +72,7 @@ Pada saat yang sama, sistem mengirimkan email konfirmasi yang dipersonalisasi ke
 ### 4. Notifikasi Real-time untuk Tim HR
 Tim perekrutan langsung mendapatkan notifikasi (Telegram) begitu ada lamaran baru yang masuk, memungkinkan mereka untuk bertindak cepat.
 
-![Notifikasi Slack](src/assets/notif-tele.png)
+![Notifikasi Telegram](src/assets/notif-tele.png)
 
 ## ✨ Fitur Demonstrasi
 
@@ -111,6 +111,3 @@ Untuk menjalankan simulasi ini, Anda perlu menghubungkan landing page ini ke alu
     *   Buka file `index.html` di peramban Anda.
     *   Isi dan kirimkan formulir lamaran.
     *   Periksa alur kerja n8n Anda untuk melihat eksekusi yang berhasil.
-
-## 🤝 Kontribusi
-

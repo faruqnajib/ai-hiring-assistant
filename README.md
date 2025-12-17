@@ -92,25 +92,3 @@ Tim perekrutan langsung mendapatkan notifikasi (Telegram) begitu ada lamaran bar
 *   **Backend & Automasi**:
     *   **n8n.io**: Platform inti yang menjalankan seluruh alur kerja automasi, mulai dari menerima data, memprosesnya, hingga melakukan tindakan (mengirim email, menyimpan data, dll.).
     *   **AI**: Dapat diintegrasikan dalam alur kerja n8n melalui API ke layanan seperti OpenAI, Gemini, Hugging Face, atau model lainnya.
-
-## 🛠️ Cara Menggunakan dan Mengembangkan
-
-Untuk menjalankan simulasi ini, Anda perlu menghubungkan landing page ini ke alur kerja n8n Anda.
-
-1.  **Siapkan Alur Kerja n8n Anda:**
-    *   Buat alur kerja baru di n8n.
-    *   Gunakan node `Webhook` sebagai pemicu (*trigger*).
-    *   Salin URL *webhook* yang disediakan oleh n8n.
-
-2.  **Konfigurasi Landing Page:**
-    *   Clone repositori ini:
-        ```bash
-        gh repo clone faruqnajib/AI-Hiring-Assistant
-        ```
-    *   Buka file JavaScript (`.js`) yang bertanggung jawab untuk pengiriman formulir.
-    *   Tempelkan URL *webhook* n8n Anda sebagai tujuan pengiriman data formulir.
-
-3.  **Jalankan Proyek:**
-    *   Buka file `index.html` di peramban Anda.
-    *   Isi dan kirimkan formulir lamaran.
-    *   Periksa alur kerja n8n Anda untuk melihat eksekusi yang berhasil.

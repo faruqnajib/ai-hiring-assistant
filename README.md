@@ -51,7 +51,7 @@ Penghematan waktu ini secara langsung berdampak pada pengurangan biaya operasion
 Berikut adalah gambaran visual dari setiap langkah utama dalam alur kerja automasi ini.
 
 ### 1. Alur Kerja Automasi di n8n
-Ini adalah otak dari operasi. Alur kerja di n8n ini menerima data dari formulir, memprosesnya, dan mendistribusikan informasi ke berbagai layanan secara otomatis.
+Alur kerja di n8n ini menerima data dari formulir, memprosesnya, dan mendistribusikan informasi ke berbagai layanan secara otomatis.
 
 ![Workflow n8n](src/assets/workflow.png)
 
